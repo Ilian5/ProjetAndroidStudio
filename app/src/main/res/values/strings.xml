@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name" translatable="false">InoVate</string>
+    <string name="welcomeapp">Bienvenue sur notre application</string>
+    <string name="connect">Connexion</string>
+    <string name="register">Inscription</string>
+    <string name="new_account">Nouveau sur Jumia?</string>
+    <string name="create_account">Créer un compte</string>
+    <string name="connect_account">Se connecter</string>
+    <string name="forgot_password">MOT DE PASSE OUBLIÉ ?</string>
+    <string name="password">Mot de passe</string>
+    <string name="login">Connectez vous</string>
+    <string name="facebook">Continue avec Facebook</string>
+    <string name="email" translatable="false">E-Mail</string>
+    <string name="or">OU</string>
+    <string name="first_name">Prénom</string>
+    <string name="last_name">Nom de famille</string>
+    <string name="confirm_password">Confirmer Mot de Passe</string>
+    <string name="already_have_account">Vous avez un compte ?</string>
+    <string name="phone_number">Télephone</string>
+    <string name="appliname" translatable="false">InoVate</string>
+    <string name="resume">Résumer</string>
+    <string name="submit">Envoyer</string>
+    <string name="cancel">Annuler</string>
+    <string name="acces_list" translatable="false">Accès à la liste</string>
+</resources>

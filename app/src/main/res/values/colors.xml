@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!-- Couleur de fond de l'écran -->
+    <color name="background">#F5F5F5</color>
+
+    <!-- Couleur principale pour le texte (noir foncé) -->
+    <color name="textPrimary">#333333</color>
+
+    <!-- Couleur secondaire pour le texte (gris foncé) -->
+    <color name="textSecondary">#666666</color>
+
+    <!-- Couleur primaire pour les boutons et éléments interactifs (violet) -->
+    <color name="colorPrimary">#6200EE</color>
+
+    <!-- Couleur pour le bouton Facebook (bleu Facebook) -->
+    <color name="facebookBlue">#1877F2</color>
+
+    <!-- Couleur d'accent pour les éléments interactifs secondaires (orange vif) -->
+    <color name="colorAccent">#FF6F00</color>
+
+    <!-- Couleur d'accent pour les éléments interactifs secondaires (orange vif) -->
+    <color name="blue">#004AAD</color>
+
+    <!-- Couleur d'accent pour les éléments int
+    eractifs secondaires (orange vif) -->
+    <color name="red">#ff5555</color>
+
+    <color name="dark_gray">#6B6767</color>
+    <color name="green">#4CAF50</color>
+</resources>

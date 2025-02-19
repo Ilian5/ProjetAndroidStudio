@@ -1,0 +1,21 @@
+<resources>
+    <string name="welcomeapp">Bienvenido a nuestra aplicación</string>
+    <string name="connect">Iniciar sesión</string>
+    <string name="register">Registrarse</string>
+    <string name="new_account">¿Nuevo en Jumia?</string>
+    <string name="create_account">Crear una cuenta</string>
+    <string name="connect_account">Conectarse</string>
+    <string name="forgot_password">¿OLVIDASTE TU CONTRASEÑA?</string>
+    <string name="password">Contraseña</string>
+    <string name="login">Inicia sesión</string>
+    <string name="facebook">Continuar con Facebook</string>
+    <string name="or">O</string>
+    <string name="first_name">Nombre</string>
+    <string name="last_name">Apellido</string>
+    <string name="confirm_password">Confirmar contraseña</string>
+    <string name="already_have_account">¿Ya tienes una cuenta?</string>
+    <string name="phone_number" translatable="false">Móvil</string>
+    <string name="resume">Resumen</string>
+    <string name="submit">Enviar</string>
+    <string name="cancel">Cancelar</string>
+</resources>
